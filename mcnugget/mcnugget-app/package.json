@@ -1,0 +1,26 @@
+{
+  "name": "mcnugget-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "better-queue": "3.8.7",
+    "better-queue-memory": "1.0.2",
+    "filesize": "3.6.1",
+    "moment": "2.22.1",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-dropzone": "4.2.10",
+    "react-router-dom": "4.2.2",
+    "react-scripts": "1.1.4",
+    "uuid": "3.2.1"
+  },
+  "scripts": {
+    "start": "PORT=3006 react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "lint": "prettier --write --no-semi **/*.js"
+  },
+  "devDependencies": {
+    "prettier": "1.12.1"
+  }
+}
