@@ -1,4 +1,4 @@
 Flask==1.0.2
-Flask-Cors==3.0.4
+Flask-Cors==3.0.9
 ipython==6.4.0
 Werkzeug==0.14.1
