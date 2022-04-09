@@ -6,7 +6,7 @@
     "better-queue": "3.8.7",
     "better-queue-memory": "1.0.2",
     "filesize": "3.6.1",
-    "moment": "2.22.1",
+    "moment": "2.29.2",
     "react": "16.3.2",
     "react-dom": "16.3.2",
     "react-dropzone": "4.2.10",
